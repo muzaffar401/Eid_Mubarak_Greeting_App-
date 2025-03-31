@@ -23,7 +23,8 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshot
-![Eid Mubarak Greeting App](https://your-image-url.com)
+![image](https://github.com/user-attachments/assets/a4826274-50f7-4a8b-9af6-60dee43373fb)
+
 
 ---
 
@@ -33,8 +34,8 @@ Follow these steps to run the **Eid Mubarak Greeting App** on your local machine
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/eid-mubarak-greeting-app.git
-cd eid-mubarak-greeting-app
+git clone https://github.com/muzaffar401/Eid_Mubarak_Greeting_App-.git
+cd Eid_Mubarak_Greeting_App
 ```
 
 ### 2️⃣ Install Dependencies
